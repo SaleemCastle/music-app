@@ -1,0 +1,20 @@
+{
+    "jshint.enable" : false,
+    "jshint.config": "",
+    "jshint.options": {
+        "esversion": 6
+    },
+    "eslint.codeAction.showDocumentation": {
+
+        "enable": true
+    },
+    "eslint.options": {
+        "semi": ["error", "never"]
+    },
+    "editor.formatOnSave": true,
+
+    "prettier.semi": false,
+    "eslint.codeActionsOnSave.mode": "problems",
+    "eslint.format.enable": true,
+    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+}
